@@ -5,5 +5,6 @@ public class TestClass {
 	public static void main(String []args) 
 	{
 		System.out.println("Number "+Number.class);
+		System.out.println("Number "+Number.class);
 	}
 }
